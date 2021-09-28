@@ -1,0 +1,3 @@
+﻿  laba4.2.cpp
+C:\Users\e.k.basharov\Documents\GitHub\VVP\laba4.2\laba4.2\laba4.2.cpp(10,20): warning C4305: инициализация: усечение из "double" в "float"
+  laba4.2.vcxproj -> C:\Users\e.k.basharov\Documents\GitHub\VVP\laba4.2\Debug\laba4.2.exe
