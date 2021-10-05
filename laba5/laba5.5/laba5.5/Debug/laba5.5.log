@@ -1,0 +1,6 @@
+﻿  laba5.5.cpp
+c:\users\e.k.basharov\desktop\laba5\laba5.5\laba5.5\laba5.5.cpp(20): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+c:\users\e.k.basharov\desktop\laba5\laba5.5\laba5.5\laba5.5.cpp(21): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+c:\users\e.k.basharov\desktop\laba5\laba5.5\laba5.5\laba5.5.cpp(22): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+c:\users\e.k.basharov\desktop\laba5\laba5.5\laba5.5\laba5.5.cpp(23): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+  laba5.5.vcxproj -> C:\Users\e.k.basharov\Desktop\laba5\laba5.5\Debug\laba5.5.exe

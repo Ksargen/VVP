@@ -20,9 +20,9 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{59B86BE5-3E79-4174-82CB-5E66AAD74E2A}</ProjectGuid>
+    <ProjectGuid>{9F4BEC63-E1FE-4B0A-A5AB-91AB6FE0C12A}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>laba52</RootNamespace>
+    <RootNamespace>laba55</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17763.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -154,7 +154,7 @@
     <ClInclude Include="pch.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="laba5.2.cpp" />
+    <ClCompile Include="laba5.5.cpp" />
     <ClCompile Include="pch.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Create</PrecompiledHeader>
