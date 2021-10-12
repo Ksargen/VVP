@@ -1,0 +1,4 @@
+﻿  laba7.6.cpp
+c:\users\e.k.basharov\desktop\laba7\laba7.6\laba7.6\laba7.6.cpp(20): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\e.k.basharov\desktop\laba7\laba7.6\laba7.6\laba7.6.cpp(21): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  laba7.6.vcxproj -> C:\Users\e.k.basharov\Desktop\laba7\laba7.6\Debug\laba7.6.exe
