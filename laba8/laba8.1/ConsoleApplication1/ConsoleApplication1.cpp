@@ -1,6 +1,6 @@
 ﻿#include <iostream>
 #include <locale.h>
-
+#include <math.h>
 using namespace std;
 
 int main()
@@ -9,8 +9,7 @@ int main()
     cout << "Введите размер файла в байтах: ";
     int a;
     cin >> a;
-    if (a % 1024 > 0) {
-    cout << "Файл занимает " << a / 1024 << " целых килобайт.";
+    cout << "Файл занимает " << ceil(a / 1024) << " целых килобайт.";
     }
     
 }
