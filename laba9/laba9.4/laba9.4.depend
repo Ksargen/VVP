@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1635112247 source:e:\git\vvp\laba9\laba9.4\main.cpp
+	<iostream>
+	<locale.h>
+	<math.h>
+
